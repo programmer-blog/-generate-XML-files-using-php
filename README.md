@@ -1,5 +1,6 @@
-Prgrammerblog.nt
 # Source code for article: Generate XML using PHP
+
+URL: http://programmerblog.net
 
 Following tasks are performed in this article:
 
